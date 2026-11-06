@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "spriteworld",
+  "versions": [
+    {
+      "commit": "ace9e186ee9a819e8f4de070bd11cf27e2265b63",
+      "tag": "1.0.2",
+      "parsed_at": "2026-11-06T08:14:36.908904+00:00"
+    }
+  ]
+}
